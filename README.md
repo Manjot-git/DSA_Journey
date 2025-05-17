@@ -14,6 +14,7 @@ This repository contains:
 ## 🔥 Topics Covered  
 - **Arrays & Strings**  {uploading soon}
 - **Recursion & Backtracking**
+- **Linked List**
 - and many more are coming soon...
 
 ## 🌐 **Online Platforms**  
